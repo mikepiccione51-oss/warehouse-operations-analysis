@@ -1,4 +1,6 @@
 # Warehouse Operations Data Analysis
+## Dashboard Preview
+![Dashboard](Dashboard-preview.png)
 
 ## Overview
 This project analyzes warehouse operations data using Python to identify inefficiencies, error trends, and performance issues.
@@ -21,7 +23,10 @@ Using Python and data analysis techniques, this project:
 - Inbound operations show higher error rates
 - Delays are more frequent in inbound processing
 - Outbound operations are more efficient
-
+## Business Impact
+- Identified inbound process inefficiencies contributing to higher error rates
+- Highlighted opportunities to reduce delays and improve throughput
+- 
 ## How to Run
 ```bash
 python analysis.py
