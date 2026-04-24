@@ -1,0 +1,9 @@
+date,department,errors,items_processed,delay_minutes
+2026-04-01,Inbound,5,120,30
+2026-04-01,Outbound,2,150,15
+2026-04-02,Inbound,7,110,40
+2026-04-02,Outbound,3,160,20
+2026-04-03,Inbound,6,130,25
+2026-04-03,Outbound,1,170,10
+2026-04-04,Inbound,8,100,50
+2026-04-04,Outbound,4,155,18
